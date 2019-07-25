@@ -5,32 +5,259 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>home</title>
+    <title>瑞德租车</title>
     <!-- 引入boot外部样式 -->
- <!-- <link rel="stylesheet" href="boot/css/bootstrap.css">  -->
-<!-- <script src="boot/js/jquery.min.js"></script> -->
-<!-- <script src="boot/js/popper.min.js"></script> -->
-<!-- <script src="boot/js/bootstrap.min.js"></script> -->
-<!-- 引入外部样式 -->
-<link rel="stylesheet" href="/yinyongyangshi/normalize_zh.css">
-<!-- <link rel="stylesheet" href="/yinyongyangshi/shouye.css"> -->
-<!-- 样式重置   初始化 -->
-<style>
-    .my_header{width:100%;height: 102px;}
-    .my_footer{width:100%;height: 780px;}
-    .my_lbt{width:100%;height: 450px;}
-</style>
-
+    <!-- <link rel="stylesheet" href="boot/css/bootstrap.css">  -->
+    <!-- <script src="boot/js/jquery.min.js"></script> -->
+    <!-- <script src="boot/js/popper.min.js"></script> -->
+    <!-- <script src="boot/js/bootstrap.min.js"></script> -->
+    <!-- 小图标 -->
+    <link rel="icon" href="img/wsd.ico" type="image/x-icon">
+    <!-- 引入外部样式 -->
+    <!-- <link rel="stylesheet" href="yinyongyangshi/normalize_zh.css"> -->
+    
+    <!-- <link rel="stylesheet" href="/yinyongyangshi/shouye.css"> -->
+    <!-- 样式重置   初始化 -->
+    <link rel="stylesheet" href="yinyongyangshi/shooye.css" class="">
+    <style>
+        .my_header{width:100%;height: 102px;
+            z-index: 66;
+        }
+        .my_footer{width:100%;height: 780px;}
+        .my_lbt{width:100%;height: 450px;}
+    </style>
 </head>
 
 <body>
-    <header>
-        <iframe class="my_header" src="header.html" frameborder="0" scrolling="no"></iframe> 
+    <script src="js/jquery-3.2.1.js"></script>
+    <header id="header" class="container">
     </header>
-    <iframe class="my_lbt" src="boot_yinru/shouye_lbt.html" frameborder="0" scrolling="no"></iframe> 
-    <footer>
-        <iframe class="my_footer" src="footer.html" frameborder="0" scrolling="no"></iframe> 
+    <script src="js/header.js"></script>
+    <!-- 空div -->
+    <div class="blank"></div>
+    <!-- 轮播图 -->
+    <iframe class="my_lbt" src="boot_yinru/shouye_lbt.html" frameborder="0" scrolling="no"></iframe>
+    
+    <!--主体  -->
+    <!-- 出行方案 -->
+    <div class="ease"> 
+        <div class="ease_s">
+            <a href="#" class="short">
+                <h3 class="">短租服务，灵活自如</h3>
+                <p class="">无论您是想约会、自驾游、踏青还是商务接待….</p>
+                <p class="">我们随时恭候您的光临，随取随还，灵活自如。</p>
+                <img src="../img/changjiantou.png" alt="">
+            </a>
+            <a href="#" class="long">
+                <h3 class="">超值长租，实惠便捷</h3>
+                <p class="">如果您常租车，我们建议您可以尝试长租，按月起租，实惠方便。</p>
+                <img src="../img/changjiantou.png" alt="">
+            </a>
+        </div>
+    </div>
+    <!-- 数据 -->
+    <div class="data">
+        <ul class="data-1">
+            <li class="">
+                <h3>10,000+</h3>
+                <p>过万车型给精挑细选的您</p>
+                <p>一个惊喜</p>
+            </li>
+            <li class="">
+                <h3>500,000+</h3>
+                <p>超过50W的平台注册车辆数</p>
+                <p>让您“淘”醉其中</p>
+            </li>
+            <li class="">
+                <h3>5000,000+</h3>
+                <p>超过500W平台注册用户</p>
+                <p>在享受瑞德租车带来的出行便利</p>
+            </li>
+            <li class="">
+                <h3>50+</h3>
+                <p>您可以在全国58个主流城市</p>
+                <p>使用瑞德租车</p>
+            </li>
+        </ul>
+    </div>
+    <!-- 出行需求 -->
+    <div class="need">
+        <ul class="">
+            <li class="need-1">
+                <h3>自驾出游</h3>
+                <p>周末带着全家租一辆宽敞舒适的大车，</p>
+                <p>如别克GL8、途观、JEEP等自驾出游，</p>
+                <p>游遍山川美景，游遍大江南北，</p>
+                <p>收获满满的幸福。</p>
+            </li>
+            <li class="need-2">
+                <h3>情侣约会</h3>
+                <p>周末你会和你的TA去哪呢，</p>
+                <p>踏青自驾是个不错的选择，</p>
+                <p>甲壳虫、mini、smart都会为你</p>
+                <p>平淡的周末添一抹亮色。</p>
+            </li>
+            <li class="need-3">
+                <h3>商务接待</h3>
+                <p>我们有丰富的商务车型，</p>
+                <p>如奔驰、别克、宝马等，</p>
+                <p>帮助您接待业务往来的客户，</p>
+                <p>助您在商业洽谈中取得成功。</p>
+            </li>
+            <li class="need-4">
+                <h3>体验个性车</h3>
+                <p>自己的车开腻了，</p>
+                <p>想要尝试体验更多新鲜感，</p>
+                <p>即刻预订保时捷911、特斯拉、牧马人、</p>
+                <p>大黄蜂等丰富车型满足你的小欲望吧。</p>
+            </li>
+        </ul>
+    </div>
+    <!--服务  -->
+    <div class="serve">
+        <div class="serve-1">
+            <div class="serve-2"></div>
+            <h2>我们竭诚为您服务</h2>
+            <div class="serve-3">
+                <div class="serve-d-1">
+                    <h4>我们负责取还车，您负责享受驾驶乐趣</h4>
+                    <p>在您需要之时，我们一呼百应，送车还车专人上门</p>
+                    <p>让您足不出户乐享其乘。（该服务在部分地区推出）</p>
+                </div>
+                <div class="serve-d-2">
+                    <h4>高达255万保额，保障您的安全出行</h4> 
+                    <p>为您提供高达255万的全方位保障,</p>
+                    <p>消除您的后顾之忧。</p>
+                </div>
+                <div class="serve-d-3">
+                    <h4>您可以用更低的价格租到心仪的车辆</h4>
+                    <p>您选择的车辆全部来自凹凸严格审核把关的车主私车，</p>
+                    <p>无论您希望经济出行，亦或是奢华体验，我们都用心满足您的要求。</p>
+                </div>
+                <div class="serve-d-4">
+                    <h4>押金减免高达70%，让您租车更省钱</h4>
+                    <p>我们建立严谨的信用机制，只需简单几步验证，</p>
+                    <p>押金减免高达70%，世界那么大，随便您看看。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 热租车型 -->
+    <div class="heat">
+        <a href="#" class="heat-4">
+            <img src="img/lunbotuzuo.png" alt="">
+        </a>
+        <a href="#" class="heat-5">
+            <img src="img/lunbotuyou.png" alt="">
+        </a> 
+        <div class="heat-1">
+            <div class="heat-2"></div>
+            <h2>热租车型</h2>
+            
+            <div class="heat-3">  
+                <a href="#" class="">
+                    <img src="img/bieke.jpg" alt="">
+                    <p>别克GL8</p>
+                    <p>188元/天</p>
+                </a>
+                <a href="#" class="">
+                    <img src="img/kaluola.jpg" alt="">
+                    <p>丰田卡罗拉</p>
+                    <p>99元/天</p>
+                </a>
+                <a href="#" class="">
+                    <img src="img/aodi.jpg" alt="">
+                    <p>奥迪A4</p>
+                    <p>188元/天</p>
+                </a>
+                <a href="#" class="">
+                    <img src="img/pashate.jpg" alt="">
+                    <p>大众帕沙特</p>
+                    <p>140元/天</p>
+                </a>
+                
+            </div>
+            
+        </div>
+    </div>
+    <!-- 我们的用户故事 -->
+    <div class="story">
+        <div class="story-1"></div>
+        <h2>我们的用户故事</h2>
+        <a href="#" class="story-11">
+            <img src="img/lunbotuzuo.png" alt="">
+        </a>
+        <div class="story-3">
+            <div class="story-31">
+                <img src="img/gushi-1.png" alt="" class="">
+                <div class="">
+                    <p>“瑞德的取送车业务让我轻松好多，再也不用为了租车来回取还了，对于我这种偶尔和朋友自驾出行的人来说太方便了。”</p>
+                    <h3>王先生,金融行业白领</h3>
+                </div>
+            </div>
+            <div class="story-32">
+                <img src="img/gushi-2.png" alt="" class="">
+                <div class="">
+                    <p>“瑞德可租的车型真的太丰富了，我在买车前特意租了心仪的车实际驾驶了几天，这个比4S店预约试驾更真实有效。”</p>
+                    <h3>张小姐,互联网公司白领</h3>
+                </div>
+            </div>
+            <div class="story-33">
+                <img src="img/gushi-3.png" alt="" class="">
+                <div class="">
+                    <p>“上次我租车过程中不小心剐蹭了车尾的漆，不得不感谢瑞德的保障业务，工作人员得知后，帮我全程完成了理赔业务。”</p>
+                    <h3>孔先生,个体户</h3>
+                </div>
+            </div>
+        </div>
+        <a href="#" class="story-12">
+            <img src="img/lunbotuyou.png" alt="">
+        </a>
+    </div>
+
+    <!-- 固定侧边栏 -->
+    <aside id="side">
+    </aside>
+    <script src="js/sidebar.js"></script>
+    <!-- 成为车主 -->
+    <div class="owner">
+        <h2>成为我们的车主，赚取收入</h2>
+        <ul>
+            <li>
+                <img src="img/anquan.png" alt="">
+                <h3>高达255万保额，保障您的安全出行</h3>
+                <p>在租车期间，</p>
+                <p>您与租客一样，</p>
+                <p>享有我们高达255W的全方位保障</p>
+            </li>
+            <li>
+                <img src="img/renzhen.png" alt="">
+                <h3>租客严格认证，只给爱惜车的人驾驶</h3>
+                <p>认证租客的身份</p>
+                <p>建立完善的车主对租客具有完备的评价体系，</p>
+                <p>且实时更新</p>
+                <a href="#" class="">开始赚钱</a>
+            </li>
+            <li>
+                <img src="img/anquandw.png" alt="">
+                <h3>全方位定位系统，爱车行踪一手掌握</h3>
+                <p>凹凸为您安装全方位定位系统,</p>
+                <p>精准定位车辆，随时掌控车辆信息。</p>
+                <p>行程全掌握，爱车共享无忧。</p>
+            </li>
+        </ul>
+        
+    </div>
+    <!-- 底部引入 -->
+    <footer id="footer">
     </footer>
+    <script src="js/footer.js"></script>
+
 
 </body>
 </html>
+            
+            
+
+              
+                

@@ -1,0 +1,5 @@
+/* css样式重置 */
+body,ol,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,form,fieldset,legend,input{ margin:0; padding:0;}
+/* h1,h2,h3,h4,h5,h6{ font-size:100%; font-weight:normal;} */
+ol,ul{ list-style:none;}
+a{text-decoration:none;}

@@ -1,0 +1,118 @@
+/* css样式重置 */
+body,ol,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,form,fieldset,legend,input{ margin:0; padding:0;}
+/* h1,h2,h3,h4,h5,h6{ font-size:100%; font-weight:normal;} */
+ol,ul{ list-style:none;}
+a{text-decoration:none;}
+/* 固定侧边栏               */
+.sidebar{
+    width:60px;height:100%;
+    background-color:#303439;
+    z-index:1200;
+    position:fixed;
+    top:0;right:0;
+    display: flex;
+    align-items: center;
+}
+.sidebar ul{
+    display: block;
+    width:60px; height:300px;
+    border-top:1px solid #45494d;
+}
+.sidebar ul li{
+    width:60px; height:76px;
+    text-align:center;
+    border-bottom:1px solid #45494d;
+    position:relative;
+}
+.sidebar ul li img{
+    width:36px;height:36px;
+    margin:20px 0 0;
+}
+
+/* 侧边栏悬停 */
+.sidebar li:hover{
+    background-color:#0b5;
+}
+.sidebar-2 div{
+    position:absolute;
+    top:34px;left:-8px;
+    width:0;height:0;
+    background-color:transparent;
+    /* border-right:8px solid #0b5; */
+    border-right:8px solid transparent;
+    border-top:8px solid transparent;
+    border-bottom:8px solid transparent;
+}
+.sidebar-2 div:hover {
+    border-right:8px solid #0b5;
+}
+/* 侧边栏隐藏  下载 */
+.drop{
+    position:relative;
+}
+.drop .drop-1{
+    position:absolute;
+    top:0px;right:80px;
+    width:140px;height:165px;
+    display:none;
+    background: #fff;
+    box-shadow:0 0 3px 3px rgba(0,0, 0,0.2)
+}
+.drop .drop-1 p{
+    text-align:center;
+    color:#45494d;
+    margin:10px 0 0;
+}
+.drop-1 img{
+    width:90px;height:90px;
+    margin:10px 0 0 25px;
+}
+.drop:hover .drop-1{
+    display:block;
+}
+
+/* 侧边栏隐藏部分 客服电话*/
+.drop2{
+    position:relative;
+}
+.drop2 .drop-2{
+    position:absolute;
+    top:0px;right:50px;
+    width:160px;height:76px;
+    display:none;
+    background: #0b5;
+}
+.drop2 .drop-2 p{
+    text-align:center;
+    color:#fff;
+    margin:10px 0 0;
+}
+.drop2:hover .drop-2{
+    display:block;
+}
+
+/* 侧边栏隐藏部分 官方微信*/
+.drop3{
+    position:relative;
+}
+.drop3 .drop-3{
+    position:absolute;
+    top:0px;right:80px;
+    width:140px;height:165px;
+    display:none;
+    background: #fff;
+    box-shadow:0 0 3px 3px rgba(0,0, 0,0.2)
+}
+.drop3 .drop-3 p{
+    text-align:center;
+    color:#45494d;
+    margin:20px 0 0;
+    font-size:6px;
+}
+.drop-3 img{
+    width:90px;height:90px;
+    margin:10px 0 0 25px;
+}
+.drop3:hover .drop-3{
+    display:block;
+}

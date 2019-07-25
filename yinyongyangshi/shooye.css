@@ -1,0 +1,481 @@
+/* css样式重置 */
+body,ol,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,form,fieldset,legend,input{ margin:0; padding:0;}
+/* h1,h2,h3,h4,h5,h6{ font-size:100%; font-weight:normal;} */
+ol,ul{ list-style:none;}
+a{text-decoration:none;}
+
+/* 空白div */
+.blank{
+    width:100%;height:100px;
+}
+/* 主体样式 */
+/* 跳转  出行方案 */
+div.ease{
+    width:100%;height: 220px;
+    position: relative;
+}
+div.ease a{
+    text-decoration:none;
+    color:#fff;
+}
+/* 小箭头 */
+ a.short img{
+    width:64px;height:64px;
+    margin:25px 0 0 412px;
+}
+ a.long img{
+    width:64px;height:64px;
+    margin:65px 0 0 412px;
+}
+div.ease_s{
+    width:1200px;height:280px;
+    position: absolute;
+    left:180px;
+    top:-140px;
+}
+div.ease_s p{
+    margin:14px 0;
+}
+a.short,a.long{
+    width:470px;height:165px;
+    display:block;
+    padding:45px 35px;
+    margin-left:20px;
+    float:left;
+    transition:all 0.3s linear;
+}
+a.short:hover,a.long:hover{
+    transform: scale(1.1,1.1);
+}
+a.short{
+    background-image:linear-gradient(to right, #0b5 50%,#ff0 100%);
+}
+a.long{
+    
+    background-image:linear-gradient(to right, #0b5 50%,#4656ee 100%);
+}
+
+/* 数据 */
+.data{
+    width:100%;height:200px;
+}
+ul.data-1{
+    width:1024px;height:98px;
+    list-style: none;
+    margin:0 auto;
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content:space-between;
+}
+ul.data-1 li{
+    width:230px;height:100px;
+    float: left;
+}
+ul.data-1 li h3{
+    font-size: 33px;
+    margin-bottom:20px;
+}
+ul.data-1 li p{
+    color:#000;
+    font-size: 14px;
+    margin:6px 0;
+}
+/* 出行需求             */
+div.need{
+    width:100%;height:610px;
+}
+div.need ul{
+    width:1024px;height:710px;
+    margin:0 auto;
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    
+}
+div.need ul li{
+    width:245px;height:451px;
+    padding:260px 0 0 20px;
+    float:left;
+    box-sizing:border-box;
+}
+div.need ul li h3{
+    font-size:25px;
+    color:#fff;
+    margin:0 0 20px 0;
+}
+div.need ul li p{
+    color:#fff;
+    margin: 5px 0 0 0;
+    font-size: 12px;
+}
+div.need ul .need-1{
+    background:url(../img/image-panel1.885fbac7.png) no-repeat;
+}
+div.need ul .need-2{
+    background:url(../img/image-panel2.33387385.png) no-repeat;
+}
+div.need ul .need-3{
+    background:url(../img/image-panel3.0c271272.png) no-repeat;
+}
+div.need ul .need-4{
+    background:url(../img/image-panel4.3c6985bf.png) no-repeat;
+}
+
+/* 服务 */
+div.serve{
+    width:100%;height:475px; background-color:#f9f9f9;
+}
+div.serve-1{
+    width:1024px;height:475px;
+    margin:0 auto;
+}
+/* 标题上面的横线 */
+div.serve-2{
+    width:25px;height:4px;
+    margin:0 auto;
+    background:#0b5;
+    border-radius:15px;
+}
+/* 下面的四段文字及图标 */
+div.serve-3{
+    width:1024px;height:300px;
+}
+div.serve-3 div{
+    width:380px;height:90px;
+    display:inline-block;
+    padding:0 0 0 74px;
+}
+/* 设置 小图标 */
+div.serve-d-1{
+    background:url(../img/tubiao1.png) no-repeat ;
+    margin:0 80px 71px 0;
+}
+div.serve-d-2{
+    background:url(../img/tubiao2.png) no-repeat ;
+}
+div.serve-d-3{
+    background:url(../img/tubiao3.png) no-repeat ;
+    margin:0 80px 0 0;
+}
+div.serve-d-4{
+    background:url(../img/tubiao4.png) no-repeat ;
+}
+/*  */
+div.serve-3 h4{
+    margin:0 0 25px;
+}
+div.serve-3 p{
+    font-size: 12px;
+    margin:5px 0 0;
+}
+
+div.serve-1 h2{
+    /* border-top:5px solid #0b5; */
+    text-align: center;
+    margin:25px 0 76px; 
+}
+
+
+/* 热租车型 样式 */
+div.heat{
+    widows: 100%;height:512px;
+    position:relative;
+}
+/* 标题横线 */
+div.heat .heat-2{
+    width: 25px;height:4px;
+    background:#0b5;
+    border-radius: 15%;
+    margin:0 auto;
+}
+.heat-1 h2{
+    text-align: center;
+    margin:25px 0 75px 0;
+}
+div.heat .heat-1{
+    widows: 1024px;height:512px;
+    margin:0 auto;
+}
+/* 图片文字部分 */
+div.heat-3{
+    width:1024px;height:376px;
+    display:flex;
+    flex-flow:row nowrap;
+    justify-content:space-between;
+    margin:0 auto;
+}
+div.heat-3 a img{
+    width:245px;height:161px;
+}
+div.heat-3 a p{
+    text-align:center;
+    color:#000;
+    margin:5px 0 0 0;
+}
+div.heat-3 a p+p{
+    color:#f00;
+    font-weight:bold; 
+}
+/* 轮播图小图标 */
+.heat-4 ,.heat-5{
+    width:52px;height:52px;
+    display:block;
+    border-radius:50%;
+    background-color:#f9f9f9;
+    position:absolute;
+}
+.heat-4{
+    top:192px;left:190px;
+}
+.heat-5{
+    top:192px;right:190px;
+}
+.heat-4>img,.heat-5>img{
+    width: 26px;height:26px;
+    margin:15px 0 0 12px;
+}
+
+/* 我们的用户故事 */
+
+.story{
+    width:100%;height:800px;
+    position:relative;
+}
+/* 标题横线 */
+.story-1{
+    width: 25px;height:4px;
+    background:#0b5;
+    border-radius: 15%;
+    margin:0 auto;
+}
+.story-1+h2{
+    text-align: center;
+    margin:25px 0 75px 0;
+}
+/* 图片文字部分         */
+.story-3{
+    width:1024px;height:600px;
+    margin:0 auto;
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content:space-between;
+}
+.story-3>div{
+    width:332px;height:480px;
+    box-shadow:2px 1px 5px 3px rgba(0,0,0,0.1);
+}
+.story-3>div>img{
+    width:332px;height:286px;
+}
+/* 图片下文字部分 */
+.story-3>div>div{
+    width:282px;height:130px;
+    margin:0 auto;
+}
+.story-3>div p{
+    font: 12px pinFangSC-Regular;
+    color:#B4B4B4;
+    line-height:2.2;
+    margin:10px 0 25px;
+}
+.story-3 h3{
+    font: 14px  pinFangSC-Regular;
+    font-weight:bolder;
+}
+/* 轮播图箭头 */
+.story a{
+    width:52px;height:52px;
+    display:block;
+    border-radius:50%;
+    background-color:#fff;
+    position:absolute;
+    box-shadow:0 0 5px 2px rgba(0,0,0,0.1);
+}
+.story .story-11{
+    top:292px;left:196px;
+}
+.story .story-12{
+    top:292px;right:196px;
+}
+.story-11>img,.story-12>img{
+    width: 26px;height:26px;
+    margin:15px 0 0 12px;
+}
+
+/* 固定侧边栏               */
+.sidebar{
+    width:60px;height:100%;
+    background-color:#303439;
+    z-index:999;
+    position:fixed;
+    top:0;right:0;
+    display: flex;
+    align-items: center;
+}
+.sidebar ul{
+    display: block;
+    width:60px; height:300px;
+    border-top:1px solid #45494d;
+}
+.sidebar ul li{
+    width:60px; height:76px;
+    text-align:center;
+    border-bottom:1px solid #45494d;
+    position:relative;
+}
+.sidebar ul li img{
+    width:36px;height:36px;
+    margin:20px 0 0;
+}
+
+/* 侧边栏悬停 */
+.sidebar li:hover{
+    background-color:#0b5;
+}
+.sidebar-2 div{
+    position:absolute;
+    top:34px;left:-8px;
+    width:0;height:0;
+    background-color:transparent;
+    /* border-right:8px solid #0b5; */
+    border-right:8px solid transparent;
+    border-top:8px solid transparent;
+    border-bottom:8px solid transparent;
+}
+.sidebar-2 div:hover {
+    border-right:8px solid #0b5;
+}
+/* 侧边栏影藏  下载 */
+.drop{
+    position:relative;
+}
+.drop .drop-1{
+    position:absolute;
+    top:0px;right:80px;
+    width:140px;height:165px;
+    display:none;
+    background: #fff;
+    box-shadow:0 0 3px 3px rgba(0,0, 0,0.2)
+}
+.drop .drop-1 p{
+    text-align:center;
+    color:#45494d;
+    margin:10px 0 0;
+}
+.drop-1 img{
+    width:90px;height:90px;
+    margin:10px 0 0 25px;
+}
+.drop:hover .drop-1{
+    display:block;
+}
+
+/* 侧边栏隐藏部分 客服电话*/
+.drop2{
+    position:relative;
+}
+.drop2 .drop-2{
+    position:absolute;
+    top:0px;right:50px;
+    width:160px;height:76px;
+    display:none;
+    background: #0b5;
+}
+.drop2 .drop-2 p{
+    text-align:center;
+    color:#fff;
+    margin:10px 0 0;
+}
+.drop2:hover .drop-2{
+    display:block;
+}
+
+/* 侧边栏隐藏部分 官方微信*/
+.drop3{
+    position:relative;
+}
+.drop3 .drop-3{
+    position:absolute;
+    top:0px;right:80px;
+    width:140px;height:165px;
+    display:none;
+    background: #fff;
+    box-shadow:0 0 3px 3px rgba(0,0, 0,0.2)
+}
+.drop3 .drop-3 p{
+    text-align:center;
+    color:#45494d;
+    margin:20px 0 0;
+    font-size:6px;
+}
+.drop-3 img{
+    width:90px;height:90px;
+    margin:10px 0 0 25px;
+}
+.drop3:hover .drop-3{
+    display:block;
+}
+
+/* 成为车主 */
+.owner{
+    width:100%;height:660px;
+    background:url(../img/background.jpg) no-repeat;
+    color:#fff;
+    margin:0 0 150px;
+}
+.owner h2{
+    text-align:center;
+    padding:100px 0 0;
+    margin:0 0 100px;
+}
+.owner ul{
+    width:1024px;height:350px;
+    margin:0 auto;
+    display:flex;
+    flex-flow:row nowrap;
+    justify-content:space-between;
+}
+/* 图片下的文字 */
+.owner ul li{
+    height:400px;
+    display:inline-block;
+    text-align: center;
+}
+.owner ul li h3{
+    font-size:18px;
+    padding:30px 0 5px;
+}
+.owner ul p{
+    font-size:12px;
+    line-height:2.3;
+}
+.owner ul li img{
+    text-align:center;
+}
+/* 按钮 */
+.owner a{
+    display:block;
+    width:260px;height:56px;
+    font-size:15px;
+    background:#3D67F0;
+    margin:0 auto;
+    text-align:center;
+    line-height:56px;
+    color:#fff;
+    margin-top:80px;
+    border-radius:5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

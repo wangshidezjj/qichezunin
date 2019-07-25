@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<!-- saved from url=(0033)http://www.faviconico.org/favicon -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="aaron@puwong">
+	<meta name="keywords" content="ico,ico图标,favicon.ico,Favicon.ico图标制作">
+	<meta name="description" content="在线制作ico图标，快速favicon.ico制作图标，可将png、gif、jpg转换成ico图标，支持透明ico图标制作、动态ico图标制作方法及ico图标下载。">
+    <title>ico图标制作,在线Favicon.ico制作转换工具,实时预览ico生成效果,ico图标下载</title>
+	<meta property="og:title" content="ico图标制作,在线Favicon.ico制作转换工具,实时预览ico生成效果,ico图标下载">
+	<meta property="og:url" content="http://www.faviconico.org/favicon">
+	<meta property="og:image" content="http://www.faviconico.org">
+	<meta property="og:site_name" content="Favicon.ico 在线制作">
+	<meta property="og:description" content="在线制作ico图标，快速favicon.ico制作图标，可将png、gif、jpg转换成ico图标，支持透明ico图标制作、动态ico图标制作方法及ico图标下载。">
+    <!-- Bootstrap -->
+    <link href="./tubiao_files/bootstrap.min.css" rel="stylesheet">
+	<link href="./tubiao_files/style.css" rel="stylesheet">
+	<!--<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" id="page_favionc2">-->
+	<link rel="icon" href="http://www.faviconico.org/favicon.ico" type="image/x-icon" id="page_favionc">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+      <script src="./tubiao_files/osd.js.下载"></script><script src="./tubiao_files/ca-pub-7794151038449314.js.下载"></script><script async="" src="./tubiao_files/f.txt"></script>
+      <script>
+          (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-7794151038449314",
+              enable_page_level_ads: true
+          });
+      </script>
+  <script src="./tubiao_files/share.js.下载"></script><link rel="preload" href="./tubiao_files/f(1).txt" as="script"><script type="text/javascript" src="./tubiao_files/f(1).txt"></script><link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/r20190710/r20190131/show_ads_impl.js" as="script"><link rel="stylesheet" href="./tubiao_files/share_style0_16.css"></head>
+  <body>
+  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+          <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="http://www.faviconico.org/"><h3>Favicon.ico 在线制作</h3></a>
+          </div>
+
+          <div id="navbar" class="collapse navbar-collapse">
+              <ul class="nav navbar-nav">
+                  <li class="active"><a href="http://www.faviconico.org/">Favicon制作</a></li>
+                  <li><a href="http://www.faviconico.org/ocd">强迫症头像制作</a></li>
+              </ul>
+              <ul class="nav navbar-nav navbar-right">
+                                </ul>
+
+          </div>
+      </div><!-- /.container -->
+  </nav><!-- /.navbar -->
+
+<div class="container">
+    <h1>favicon.ico在线制作,在线Favicon.ico制作转换工具</h1>
+    
+    <div class="row">
+        <div class="col-md-12">
+            <h3>favicon图标转换结果<small>您转换了1个文件，返回内容如下：</small></h3>
+                    <table class="table table-hover">
+                        <thead>
+                        <tr>
+                            <th style="width: 50px">#</th>
+                            <th style="width:150px">Favicon.ico</th>
+                            <th>源文件名</th>
+                            <th style="max-width: 180px">下载</th>
+                            <th>备注</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                                    <tr>
+                                <td>1</td>
+                                <td><img class="media-object" src="./tubiao_files/favicon-20190717071530814.ico"></td>
+                                <td>logo1.png</td>
+                                <td><button type="button" data-url="./ico-converted/20190717/favicon-20190717071530814.ico" data-data="" class="btn btn-default download"><span class="glyphicon glyphicon-download-alt"></span> 下载</button></td>
+                                <td>转换成功</td>
+                            </tr>                        </tbody>
+                    </table>
+                <div class="ads970"></div>
+                    </div><!--end col-->
+    </div><!--end row-->
+
+    <div class="row row-offcanvas row-offcanvas-right">
+        <div class="col-xs-12 col-sm-12">
+            <div class="jumbotron">
+                <div class="row">
+                    <div class="col-md-8">
+                        <form role="form" name="convert_ico" enctype="multipart/form-data" method="post" action="http://www.faviconico.org/favicon">
+                            <div class="form-group">
+                                <label style="padding-right: 10px;">目标尺寸:</label>
+                                <label class="radio-inline"><input type="radio" name="ico_target_size" checked="" value="size16">16*16</label>
+                                <label class="radio-inline"><input type="radio" name="ico_target_size" value="size32">32*32</label>
+                                <label class="radio-inline"><input type="radio" name="ico_target_size" value="size48">48*48</label>
+                                <label class="radio-inline"><input type="radio" name="ico_target_size" value="size64">64*64</label>
+                                <label class="radio-inline"><input type="radio" name="ico_target_size" value="size128">128*128</label>
+                            </div>
+                            <div class="form-group" name="source_image">
+                                <!--up load source images filed-->
+                                <label><span style="padding-right: 10px;">源图片:</span> <input style="display:inline" type="file" class="file" name="favicon[]" onchange="update_form();"></label>
+                                <label><button type="button" class="btn btn-default btn-sm" title="仅在Chrome&amp;Firefox下支持实时预览" onclick="preview(this);"><span class="glyphicon glyphicon-eye-open"></span> 预览</button></label>
+                                <button type="button" name="remove_image" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-remove"></span> 移除</button>
+                                <!--end upload-->
+                            </div>
+                            <div id="foo"></div>
+                            <button type="button" id="add_image" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-plus"></span> 添加更多图片</button>
+                            <span id="msg"></span>
+                            <div class="checkbox accept-show">
+                                <label>
+                                    <input name="accept_show" type="checkbox" checked="checked" value="1"> 允许以上图标显示在“近期转换”                                </label>
+                            </div>
+                            <div class="row convert">
+                                <button type="button" class="btn btn-lg btn btn-primary">在线生成favicon.ico图标</button> <div class="note">注意：源文件图片格式支持png、jpg、gif，且小于5M。</div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-md-4 preview">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">效果预览 <small class="preview_noie">您的浏览器可同时预览</small></div>
+                            <div class="panel-body text-center">
+                                <div class="preview_ico"><div id="favicon_ico"></div></div>
+                                <button type="button" data-url="./favicon.ico" class="btn btn-default download_fav" style="margin-top: 10px"><span class="glyphicon glyphicon-download-alt"></span> 下载 Favicon.ico</button>
+                                <!--<button type="button" class="btn btn-default" style="margin-top: 10px"><span class="glyphicon glyphicon-globe"></span> Publish under an open license</button>-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!--/span-->
+    </div><!--/row-->
+        <div class="row">
+        <div class="col-md-12 text-center" style="margin-top: -20px; margin-bottom: 20px;">
+            <div class="bdsharebuttonbox bdshare-button-style0-16" data-bd-bind="1563362133107"><a href="http://www.faviconico.org/favicon#" data-cmd="more" style="">如果您喜欢faviconico.org，请分享给你的朋友：</a><a href="http://www.faviconico.org/favicon#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="http://www.faviconico.org/favicon#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="http://www.faviconico.org/favicon#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="http://www.faviconico.org/favicon#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="http://www.faviconico.org/favicon#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="http://www.faviconico.org/favicon#" class="bds_bdysc" data-cmd="bdysc" title="分享到百度云收藏"></a><a href="http://www.faviconico.org/favicon#" class="bds_kaixin001" data-cmd="kaixin001" title="分享到开心网"></a><a href="http://www.faviconico.org/favicon#" class="bds_tqf" data-cmd="tqf" title="分享到腾讯朋友"></a><a href="http://www.faviconico.org/favicon#" class="bds_tieba" data-cmd="tieba" title="分享到百度贴吧"></a><a href="http://www.faviconico.org/favicon#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网"></a><a href="http://www.faviconico.org/favicon#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="http://www.faviconico.org/favicon#" class="bds_taobao" data-cmd="taobao" title="分享到我的淘宝"></a><a href="http://www.faviconico.org/favicon#" class="bds_ibaidu" data-cmd="ibaidu" title="分享到百度个人中心"></a><a href="http://www.faviconico.org/favicon#" class="bds_meilishuo" data-cmd="meilishuo" title="分享到美丽说"></a><a href="http://www.faviconico.org/favicon#" class="bds_baidu" data-cmd="baidu" title="分享到百度搜藏"></a><a href="http://www.faviconico.org/favicon#" class="bds_hi" data-cmd="hi" title="分享到百度空间"></a><a href="http://www.faviconico.org/favicon#" class="bds_diandian" data-cmd="diandian" title="分享到点点网"></a><a href="http://www.faviconico.org/favicon#" class="bds_youdao" data-cmd="youdao" title="分享到有道云笔记"></a><a href="http://www.faviconico.org/favicon#" class="bds_mail" data-cmd="mail" title="分享到邮件分享"></a><a href="http://www.faviconico.org/favicon#" class="bds_deli" data-cmd="deli" title="分享到delicious"></a><a href="http://www.faviconico.org/favicon#" class="bds_linkedin" data-cmd="linkedin" title="分享到linkedin"></a><a href="http://www.faviconico.org/favicon#" class="bds_fbook" data-cmd="fbook" title="分享到Facebook"></a><a href="http://www.faviconico.org/favicon#" class="bds_twi" data-cmd="twi" title="分享到Twitter"></a><a href="http://www.faviconico.org/favicon#" class="bds_ty" data-cmd="ty" title="分享到天涯社区"></a></div>
+            <script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+        </div>
+    </div>    <div class="row">
+        <div class="col-md-2">近期转换</div>
+        <div class="col-md-10"></div>
+    </div>
+    <div class="row">
+        <div class="col-8 col-sm-8 col-md-8 col-lg-8">
+            <h4><span class="glyphicon glyphicon-stop"></span>favicon.ico显示位置</h4>
+            <p><img src="./tubiao_files/eg_favicon.png" alt="谷歌 favicon.ico 显示示例" title="谷歌 favicon.ico 显示示例"><img src="./tubiao_files/eg_favicon2.png" alt="雅虎 favicon.ico 显示示例" title="雅虎 favicon.ico 显示示例"></p>
+        </div><!--/span-->
+        <div class="col-4 col-sm-4 col-lg-4">
+            <h4><span class="glyphicon glyphicon-stop"></span>在线ico图标制作工具使用说明</h4>
+            <p class="desc">1. 原始图片必须为jpg、gif、png格式<br>
+                2. 原始图片文件大小&lt;5M。<br>
+                3. 建议原图长宽相同，避免转换后生成的ico图标因缩放而失真。<br>
+                4. 点击＂浏览/选择文件＂按钮上传本地图片，再点＂在线生成favicon.ico图标＂即可。</p>
+        </div><!--/span-->
+    </div><!--/row-->
+    <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">ICO 帮助</h3>
+                </div>
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-6">
+                            <h4><span class="glyphicon glyphicon-stop"></span>如何使用Favicon.ico？</h4>
+                                                        <p>1. 将成功生成的图标文件下载并改名为favico.ico，上传到网站根目录。<br>2. 在网站首页的源文件 head 之间插入下面的代码:</p><pre class="copy">&lt;link rel="shortcut icon" href="/favicon.ico"/&gt;
+&lt;link rel="bookmark" href="/favicon.ico"/&gt;</pre><p></p>
+                            <h4><span class="glyphicon glyphicon-stop"></span>如何创建动态ico图标</h4>
+                            <p>先把做好的gif动态图标命名为favicon.gif，然后再 head 之间加上：</p><pre class="copy">&lt;link rel="icon" href="/favicon.gif" type="image/gif" /&gt;</pre><p></p>
+                        <div class="zclip" id="zclip-ZeroClipboardMovie_1" style="position: absolute; left: 15px; top: 87px; width: 539px; height: 57px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/public/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="539" height="57" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=539&amp;height=57" wmode="transparent"></div><div class="zclip" id="zclip-ZeroClipboardMovie_2" style="position: absolute; left: 15px; top: 211px; width: 539px; height: 39px; z-index: 99;"><embed id="ZeroClipboardMovie_2" src="/public/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="539" height="39" name="ZeroClipboardMovie_2" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=2&amp;width=539&amp;height=39" wmode="transparent"></div></div>
+                        <div class="col-md-6 col-lg-6">
+                            <div class="row">
+                                <div class="col-md-12 article">
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h4><span class="glyphicon glyphicon-stop"></span>強烈推薦使用.ico而不是使用png或者gif</h4><p>1. 最重要的就是，所有的浏览器，包括IE5，都支持ico文件，gif、png等都没有ico支持范围广<br>
+                                    2. 如果有favicon.ico，服务器的404错误会有友好返回，我们测试了所有现代浏览器（测试了 Chrome 4, Firefox 3.5【火狐】, IE8, Opera 10 and Safari 4），发现他们都会请求favicon.ico，这样错误页就会有对应图标显示，所以最好用ico！<br>
+                                    3. 一个.ico文件可以同时满足多个尺寸的需求，不需要每个尺寸单独生成一个文件</p>
+                            <h4><span class="glyphicon glyphicon-stop"></span>什么是favicon.ico</h4><p>所谓favicon，即Favorites Icon的缩写，顾名思义，便是其可以让浏览器的收藏夹中除显示相应的标题外，还以图标的方式区别不同的网站。当然，这不仅仅是Favicon的全部，根据浏览器的不同，Favicon显示也有所区别：在大多数主流浏览器如FireFox和Internet Explorer (5.5及以上版本)中，favicon不仅在收藏夹中显示，还会同时出现在地址栏上，这时用户可以拖曳favicon到桌面以建立到网站的快捷方式；除此之外，标签式浏览器甚至还有不少扩展的功能，如FireFox甚至支持动画格式的favicon等。</p>
+                            <h4><span class="glyphicon glyphicon-stop"></span>ICO百科</h4><p>ICO原本是windows中存储单个图案的一种图标文件格式，现可以用作软件、文件夹以及网站等的缩略标志，显示在用户的资源管理器，浏览器的地址栏、标题栏和多页面浏览器的标签栏上。图标文件一般尺寸较小，常见的是16*16,32*32和48*48。图标是部分透明的，可以直接打开浏览。更多请参考 http://en.wikipedia.org/wiki/ICO_(file_format)</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr>
+</div>
+<div class="container">
+<div class="row" style="margin-bottom: 5px;">
+    <div class="col-md-2"><a href="http://www.faviconico.org/" title="Favicon.ico 在线制作"><img src="./tubiao_files/faviconico_footer_zh-cn.gif" border="0" title="Favicon.ico 在线制作"></a></div>
+    <div class="col-md-8"> Faviconico.org 由 铺王 设计开发.  <strong>Favicon.ico在线制作 ICO图标在线制作工具</strong> 可实时预览显示效果<br>友链:<a href="http://www.alilabel.com/">阿里图片标注</a></div>
+    <div class="col-md-2" style="text-align: right">
+        <a href="http://www.faviconico.org/favicon#">返回顶部</a> <span class="glyphicon glyphicon-arrow-up"></span><br><br>
+        <div class="langs">
+        <span class="clang">&nbsp;&nbsp;<span class="lang_more">更多</span></span>
+            <span class="selector">
+                <div class="options">
+                    <a href="http://en.faviconico.org/">English</a><a href="http://cn.faviconico.org/">简体中文</a><a href="http://tw.faviconico.org/">繁體中文</a><a href="http://bestnewreditcard.com/">credit card</a>
+                </div>
+            </span>
+    </div></div>
+</div>
+</div>
+<ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0px;width:0px;height:0px;" src="./tubiao_files/saved_resource.html"></iframe></ins></ins></ins><script src="./tubiao_files/jquery-1.11.1.min.js.下载"></script>
+<script src="./tubiao_files/bootstrap.min.js.下载"></script>
+<script src="./tubiao_files/ajaxfileupload.js.下载"></script>
+<script type="text/javascript" src="./tubiao_files/jquery.zclip.min.js.下载"></script>
+<script src="./tubiao_files/main.js.下载"></script>
+<img src="./tubiao_files/saved_resource" alt="free web stats" style="border:none;display: none;">
+<span style="display: none;"><script src="./tubiao_files/stat.php" language="JavaScript"></script><script src="./tubiao_files/core.php" charset="utf-8" type="text/javascript"></script><a href="https://www.cnzz.com/stat/website.php?web_id=1253181898" target="_blank" title="站长统计">站长统计</a></span>
+
+
+<script type="text/javascript" src="./tubiao_files/lang"></script><iframe id="google_osd_static_frame_929362515764" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;" src="./tubiao_files/saved_resource(1).html"></iframe><iframe id="jUploadFramedownload_favicon" name="jUploadFramedownload_favicon" style="position:absolute; top:-9999px; left:-9999px" src="./tubiao_files/download.html"></iframe></body><iframe id="google_shimpl" style="display: none;" src="./tubiao_files/saved_resource(2).html"></iframe><iframe id="google_esf" name="google_esf" src="./tubiao_files/zrt_lookup.html" data-ad-client="ca-pub-7794151038449314" style="display: none;"></iframe></html>
